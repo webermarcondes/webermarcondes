@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil 👋
+### Olá, bem vindo ao meu perfil 👋😀
 
 No momento estou cursando Análise e desenvolvimento de sistemas e estudando o framework Spring boot, abaixo segue linguagens e ferramentas que tenho conhecimento e meios para se entrar em contato comigo😊.
 
@@ -7,7 +7,8 @@ No momento estou cursando Análise e desenvolvimento de sistemas e estudando o f
 <div style="display: inline_block"><br>
 <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
 <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-<img align="center"  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
+<img align="center"  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />           
 </div>          
 
 ##
