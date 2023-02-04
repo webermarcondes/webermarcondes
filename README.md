@@ -12,7 +12,7 @@ No momento estou cursando Análise e desenvolvimento de sistemas e estudando o f
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webermarcondes&count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webermarcondes&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webermarcondes&theme=gruvbox&card_width=470)
