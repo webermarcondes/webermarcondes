@@ -8,7 +8,17 @@ No momento estou cursando Análise e desenvolvimento de sistemas e estudando o f
 <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
 <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
 <img align="center"  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
-</div>          
+</div>   
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webermarcondes&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webermarcondes&theme=gruvbox&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
+
+
+       
 
 ##
 ### Redes sociais e e-mail para contato:
