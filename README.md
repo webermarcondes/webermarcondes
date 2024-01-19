@@ -1,6 +1,6 @@
-### Olá, bem vindo ao meu perfil 👋😀
+### Olá, seja bem vindo ao meu perfil 👋😀
 
-No momento estou cursando Análise e desenvolvimento de sistemas e estudando o framework Spring boot, abaixo segue linguagens e ferramentas que tenho conhecimento e meios para se entrar em contato comigo😊.
+No momento estou cursando Análise e desenvolvimento de sistemas e amo programar, abaixo segue linguagens e ferramentas que tenho conhecimento e meios para se entrar em contato comigo😊.
 
 ##
 ### Linguagens e Ferramentas que tenho conhecimento:
