@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋😀
 
-No momento estou cursando Análise e desenvolvimento de sistemas e amo programar, abaixo segue linguagens e ferramentas que tenho conhecimento e meios para se entrar em contato comigo😊.
+Sou Formado em Análise e Desenvolvimento de sistemas pelo Senac de Criciúma. Estou em constante aprimoramento e estudo para crescer na área de tecnologia, abaixo segue linguagens e ferramentas das quais tenho conhecimento até o momento.
 
 ##
 ### Linguagens e Ferramentas que tenho conhecimento:
