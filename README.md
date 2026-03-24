@@ -1,14 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋😀
 
-Sou Formado em Análise e Desenvolvimento de sistemas pelo Senac de Criciúma. Estou em constante aprimoramento e estudo para crescer na área de tecnologia, abaixo segue linguagens e ferramentas das quais tenho conhecimento até o momento.
-
-##
-### Linguagens e Ferramentas que tenho conhecimento:
-<div style="display: inline_block"><br>
-<img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
-<img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-<img align="center"  heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
-</div>   
+Sou Formado em Análise e Desenvolvimento de sistemas pelo Senac de Criciúma. Estou em constante aprimoramento e estudo para crescer na área de tecnologia
 
 ##
 
